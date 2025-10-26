@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered CV Builder",
+  "description": "A sophisticated CV builder application that allows users to create, customize, and download professional-looking resumes. It features multiple themes, live preview, and an AI-powered content generation feature using Gemini to help craft compelling CV content effortlessly.",
+  "requestFramePermissions": []
+}
