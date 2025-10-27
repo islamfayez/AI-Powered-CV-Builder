@@ -1,4 +1,3 @@
-
 import { CVData, Theme } from './types';
 
 export const INITIAL_CV_DATA: CVData = {

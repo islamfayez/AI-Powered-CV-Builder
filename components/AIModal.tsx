@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { FiX, FiZap } from 'react-icons/fi';
 

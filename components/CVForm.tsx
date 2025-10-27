@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { CVData, Experience, Education, Project, Certification, Theme } from '../types';
 import { FiPlus, FiTrash2, FiUpload, FiZap } from 'react-icons/fi';

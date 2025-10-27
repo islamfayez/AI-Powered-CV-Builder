@@ -1,4 +1,3 @@
-
 import React, { forwardRef } from 'react';
 import { CVData } from '../types';
 import { FiMail, FiPhone, FiGlobe, FiLinkedin } from 'react-icons/fi';
